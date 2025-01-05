@@ -8,7 +8,7 @@ Working Vedio
 https://github.com/user-attachments/assets/239e538e-6ea1-451d-8640-7288f1f31ecb
 
 ---
-## Steps to Set Up and Run the Project  
+## 🚀 Steps to Set Up and Run the Project  
 
 1. **Clone the Repository**  
    - Clone the project to your local machine:  
