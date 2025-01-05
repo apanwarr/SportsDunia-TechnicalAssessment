@@ -1,7 +1,14 @@
 # React Project Documentation  
-
 This project is built using **React.js**, **Tailwind CSS**, **Firebase** and a **third-party API**. <br>
 The app is hosted locally on **http://localhost:3001**.  
+
+---
+![1](https://github.com/user-attachments/assets/d4fd28c4-c983-45b8-bdec-3faecd41e0eb)
+![2](https://github.com/user-attachments/assets/4638797e-d95a-43a1-9aca-bb23739208b8)
+![3](https://github.com/user-attachments/assets/823a457b-4391-4ac5-9ea3-0c9aac1e4329)
+![4](https://github.com/user-attachments/assets/d33023b0-ae83-4748-91b1-10c656150117)
+![5](https://github.com/user-attachments/assets/2b0b7994-76f4-41a8-9c0e-a7a1414e907c)
+![6](https://github.com/user-attachments/assets/a7efa82a-379a-469a-8cf1-83e0ce6eae84)
 
 ---
 
